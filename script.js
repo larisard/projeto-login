@@ -24,7 +24,7 @@ class Pessoa {
   }
 
   loginAux(){
-    window.location.href = "home.html"
+    window.location.href = "pag/home.html"
     
   }
   login() {
