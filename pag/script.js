@@ -24,6 +24,7 @@ class Pessoa {
   }
 
   loginAux(){
+    grecaptcha.execure();
     window.location.href = "pag/home.html"
     
   }
