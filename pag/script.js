@@ -1,6 +1,6 @@
-const usuarioCadastrado = {username:"Larissard",password:"lari123+", cpf:"12345678912"}
-  const usuarioCadastrado2 = {username:"Admin",password:"admin123!", cpf:"12345678921"}
-  const usuarioCadastrado3 = {username:"Usuario",password:"user123!", cpf:"12345678931"}
+const usuarioCadastrado = {username:"Larissard",password:"lari123+", cpf:"13824396793"}
+  const usuarioCadastrado2 = {username:"Admin",password:"admin123!", cpf:"13824396793"}
+  const usuarioCadastrado3 = {username:"Usuario",password:"user123!", cpf:"13824396793"}
 
   const loginBtn = document.querySelector("#log")
   loginBtn.addEventListener("click", ()=>{
